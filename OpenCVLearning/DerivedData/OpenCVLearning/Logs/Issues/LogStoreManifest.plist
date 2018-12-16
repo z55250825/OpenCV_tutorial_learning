@@ -52,6 +52,29 @@
 			<key>uniqueIdentifier</key>
 			<string>CFD8E73F-0CC6-4076-B852-D8D6003A7292</string>
 		</dict>
+		<key>DDC129CD-7B41-4888-AE45-4FFCC24C0F74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>DDC129CD-7B41-4888-AE45-4FFCC24C0F74.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>mask-altaxxsotpwgspebestliwzamqon</string>
+			<key>timeStartedRecording</key>
+			<real>566638414.356552</real>
+			<key>timeStoppedRecording</key>
+			<real>566638416.85910201</real>
+			<key>title</key>
+			<string>Build target mask</string>
+			<key>uniqueIdentifier</key>
+			<string>DDC129CD-7B41-4888-AE45-4FFCC24C0F74</string>
+		</dict>
 		<key>F11E9283-2D0F-4838-ABF4-C1238AAC327B</key>
 		<dict>
 			<key>className</key>
