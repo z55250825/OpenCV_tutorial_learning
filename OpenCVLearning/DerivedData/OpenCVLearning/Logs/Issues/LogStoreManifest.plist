@@ -6,6 +6,52 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>273EF787-7F70-4CBC-BA9A-AC411FC5A99D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>273EF787-7F70-4CBC-BA9A-AC411FC5A99D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>blend-altaxxsotpwgspebestliwzamqon</string>
+			<key>timeStartedRecording</key>
+			<real>566647405.488585</real>
+			<key>timeStoppedRecording</key>
+			<real>566647408.36763406</real>
+			<key>title</key>
+			<string>Build target blend</string>
+			<key>uniqueIdentifier</key>
+			<string>273EF787-7F70-4CBC-BA9A-AC411FC5A99D</string>
+		</dict>
+		<key>3D276C12-CF3F-4457-9ABF-284ACC484156</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>3D276C12-CF3F-4457-9ABF-284ACC484156.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>contrast-altaxxsotpwgspebestliwzamqon</string>
+			<key>timeStartedRecording</key>
+			<real>566654265.647277</real>
+			<key>timeStoppedRecording</key>
+			<real>566654269.03416598</real>
+			<key>title</key>
+			<string>Build target contrast</string>
+			<key>uniqueIdentifier</key>
+			<string>3D276C12-CF3F-4457-9ABF-284ACC484156</string>
+		</dict>
 		<key>6038CEFE-A9DA-4C70-A6FB-AEBE5B3EE1FA</key>
 		<dict>
 			<key>className</key>
@@ -97,29 +143,6 @@
 			<string>Build target pixel</string>
 			<key>uniqueIdentifier</key>
 			<string>CFD8E73F-0CC6-4076-B852-D8D6003A7292</string>
-		</dict>
-		<key>E6500AD7-E34C-42DF-B72B-C6065975B1D4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
-			<key>fileName</key>
-			<string>E6500AD7-E34C-42DF-B72B-C6065975B1D4.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>signature</key>
-			<string>blend-altaxxsotpwgspebestliwzamqon</string>
-			<key>timeStartedRecording</key>
-			<real>566647205.50441301</real>
-			<key>timeStoppedRecording</key>
-			<real>566647207.73387599</real>
-			<key>title</key>
-			<string>Build target blend</string>
-			<key>uniqueIdentifier</key>
-			<string>E6500AD7-E34C-42DF-B72B-C6065975B1D4</string>
 		</dict>
 		<key>F11E9283-2D0F-4838-ABF4-C1238AAC327B</key>
 		<dict>

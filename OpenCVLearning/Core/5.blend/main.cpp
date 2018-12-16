@@ -55,9 +55,9 @@ int main(int argc, const char * argv[]) {
     createTrackbar(trackBar, "blend", &alpha_slider, alpha_slider_max, on_trackbar);
     
     on_trackbar(alpha_slider, 0);
-    // beta = 1 - alpha; //used for user input
+    //beta = 1 - alpha; //used for user input
     
-    addWeighted(src1, alpha, src2, beta, 0.0, dst);
+    //addWeighted(src1, alpha, src2, beta, 0.0, dst);
     
     imshow("blend", dst);
     waitKey();
