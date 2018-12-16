@@ -5,7 +5,54 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>353AF1FC-9BB1-4A65-98BB-1465B7E21C69</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>353AF1FC-9BB1-4A65-98BB-1465B7E21C69.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>Mat-altaxxsotpwgspebestliwzamqon</string>
+			<key>timeStartedRecording</key>
+			<real>566627958.95445704</real>
+			<key>timeStoppedRecording</key>
+			<real>566627961.21655405</real>
+			<key>title</key>
+			<string>Build target Mat</string>
+			<key>uniqueIdentifier</key>
+			<string>353AF1FC-9BB1-4A65-98BB-1465B7E21C69</string>
+		</dict>
+		<key>F11E9283-2D0F-4838-ABF4-C1238AAC327B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>F11E9283-2D0F-4838-ABF4-C1238AAC327B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>OpenCVLearning-altaxxsotpwgspebestliwzamqon</string>
+			<key>timeStartedRecording</key>
+			<real>566577650.33048499</real>
+			<key>timeStoppedRecording</key>
+			<real>566577656.54528999</real>
+			<key>title</key>
+			<string>Build target OpenCVLearning</string>
+			<key>uniqueIdentifier</key>
+			<string>F11E9283-2D0F-4838-ABF4-C1238AAC327B</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
