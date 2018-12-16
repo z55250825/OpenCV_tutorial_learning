@@ -6,6 +6,8 @@
 //  Copyright © 2018 z55250825. All rights reserved.
 //
 
+// Step 1 : learning Mat format
+
 // 1. Mat is that you no longer need to manually allocate its memory and release it as
 // soon as you do not need it
 //

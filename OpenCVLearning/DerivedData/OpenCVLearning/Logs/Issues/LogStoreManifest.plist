@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>8580A1FD-C300-4A14-A443-C6F600BCD813</key>
+		<key>34271B50-7326-429D-A60F-C803430888DC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,19 +15,42 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
 			<key>fileName</key>
-			<string>8580A1FD-C300-4A14-A443-C6F600BCD813.xcactivitylog</string>
+			<string>34271B50-7326-429D-A60F-C803430888DC.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>signature</key>
 			<string>Mat-altaxxsotpwgspebestliwzamqon</string>
 			<key>timeStartedRecording</key>
-			<real>566629732.53942001</real>
+			<real>566634846.31715703</real>
 			<key>timeStoppedRecording</key>
-			<real>566629735.31287599</real>
+			<real>566634849.11051702</real>
 			<key>title</key>
 			<string>Build target Mat</string>
 			<key>uniqueIdentifier</key>
-			<string>8580A1FD-C300-4A14-A443-C6F600BCD813</string>
+			<string>34271B50-7326-429D-A60F-C803430888DC</string>
+		</dict>
+		<key>CFD8E73F-0CC6-4076-B852-D8D6003A7292</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>CFD8E73F-0CC6-4076-B852-D8D6003A7292.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>pixel-altaxxsotpwgspebestliwzamqon</string>
+			<key>timeStartedRecording</key>
+			<real>566636233.910869</real>
+			<key>timeStoppedRecording</key>
+			<real>566636236.25356495</real>
+			<key>title</key>
+			<string>Build target pixel</string>
+			<key>uniqueIdentifier</key>
+			<string>CFD8E73F-0CC6-4076-B852-D8D6003A7292</string>
 		</dict>
 		<key>F11E9283-2D0F-4838-ABF4-C1238AAC327B</key>
 		<dict>
