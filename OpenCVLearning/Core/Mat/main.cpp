@@ -109,5 +109,27 @@ int main(int argc, const char * argv[]) {
     Mat O = (Mat_<double>(3,3) << 0, -1, 0, -1, 5, -1, 0, -1, 0);
     cout << "O = " << endl << O << endl;
 
+    O = (Mat_<double>({0,-1,0,-1,5,-1,0,-1,0})).reshape(3);
+    cout << "O = " << endl << O << endl;
+    
+    // OpenCV format output
+    cout << "O (python) = " << endl << format(O, Formatter::FMT_PYTHON) << endl;
+    cout << "O (CSV) = " << endl << format(O, Formatter::FMT_CSV) << endl;
+    cout << "O (numpy) = " << endl << format(O, Formatter::FMT_NUMPY) << endl;
+    
+    // OpenCV format for other data type
+    Point2f P(5, 1);
+    cout << "Point (2D) = " << P << endl;
+    Point3f P3f(2, 6, 7);
+    cout << "Point (3D) = " << P3f << endl;
+    vector<float> v;
+    v.push_back((float) CV_PI);
+    v.push_back(2);
+    v.push_back(3.01f);
+    cout << "Vector via Mat "<< Mat(v) << endl;
+    vector<Point2f> vPoints(20);
+    for (size_t i = 0; i < vPoints.size(); ++i )
+        vPoints[i] = Point2f((float)(i * 5), (float)(i % 7));
+    cout << "Vector of 2D points " << vPoints << endl;
     return 0;
 }
