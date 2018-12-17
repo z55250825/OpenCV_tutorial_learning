@@ -17,15 +17,15 @@ using std::cin;
 using std::cout;
 using std::endl;
 
-double alpha = 0.0;
-double beta = 0.0;
+double alpha = 0.5;
+double beta = 70.0;
 const int max_alpha = 100;
 const int max_beta = 100;
 int slider_alpha = 0, slider_beta = 0;
 Mat img,new_img;
 
 static void on_tracker_alpha(int, void*){
-    alpha = 5.0*(double)slider_alpha/(double)max_alpha;
+    alpha = 1.0*(double)slider_alpha/(double)max_alpha;
     img.convertTo(new_img, -1, alpha, beta);
     imshow("new_img", new_img);
 }
@@ -37,7 +37,7 @@ static void on_tracker_beta(int, void*){
 }
 
 int main(int argc, const char * argv[]) {
-    img = imread("/Users/z55250825/desktop/1.png");
+    img = imread("/Users/z55250825/desktop/4.jpg");
     new_img = Mat::zeros(img.size(), img.type());
     
     char track_alpha[50],track_beta[50];
@@ -50,6 +50,7 @@ int main(int argc, const char * argv[]) {
     imshow("img", img);
     imshow("new_img", new_img);
     waitKey();
+    imwrite("/Users/z55250825/desktop/5.jpg", new_img);
     
     // used for user input
     /*
